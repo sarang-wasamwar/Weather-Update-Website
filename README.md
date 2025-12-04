@@ -1,4 +1,4 @@
-#🌤️ Weather App
+#Weather App 🌤️
 
 A simple app that shows temperature and wind speed using a Weather API.
 Built with index.html and api.js, and the API was tested using Thunder Client.
